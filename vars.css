@@ -1,0 +1,62 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  /* Fonts */
+  --heading-1-font-family: Inter-Medium, sans-serif;
+  --heading-1-font-size: 5.466666666666667rem;
+  --heading-1-line-height: 5.6rem;
+  --heading-1-font-weight: 500;
+  --heading-1-font-style: normal;
+  --heading-2-font-family: Inter-Medium, sans-serif;
+  --heading-2-font-size: 3.7333333333333334rem;
+  --heading-2-line-height: 4.333333333333333rem;
+  --heading-2-font-weight: 500;
+  --heading-2-font-style: normal;
+  --heading-3-font-family: Inter-Medium, sans-serif;
+  --heading-3-font-size: 2.1333333333333333rem;
+  --heading-3-line-height: 2.533333333333333rem;
+  --heading-3-font-weight: 500;
+  --heading-3-font-style: normal;
+  --heading-4-font-family: Inter-Medium, sans-serif;
+  --heading-4-font-size: 1.6rem;
+  --heading-4-line-height: 2.533333333333333rem;
+  --heading-4-font-weight: 500;
+  --heading-4-font-style: normal;
+  --heading-5-font-family: Inter-Medium, sans-serif;
+  --heading-5-font-size: 1.0666666666666667rem;
+  --heading-5-line-height: 2.066666666666667rem;
+  --heading-5-font-weight: 500;
+  --heading-5-font-style: normal;
+  --heading-6-font-family: Inter-Medium, sans-serif;
+  --heading-6-font-size: 0.8666666666666667rem;
+  --heading-6-line-height: 1.7333333333333334rem;
+  --heading-6-font-weight: 500;
+  --heading-6-font-style: normal;
+  --body-xs-font-family: Inter-Regular, sans-serif;
+  --body-xs-font-size: 0.8666666666666667rem;
+  --body-xs-line-height: 1.7333333333333334rem;
+  --body-xs-font-weight: 400;
+  --body-xs-font-style: normal;
+  --body-s-font-family: Inter-Regular, sans-serif;
+  --body-s-font-size: 0.9333333333333333rem;
+  --body-s-line-height: 1.7333333333333334rem;
+  --body-s-font-weight: 400;
+  --body-s-font-style: normal;
+  --body-m-font-family: Inter-Regular, sans-serif;
+  --body-m-font-size: 1.0666666666666667rem;
+  --body-m-line-height: 1.7333333333333334rem;
+  --body-m-font-weight: 400;
+  --body-m-font-style: normal;
+  --body-l-font-family: Inter-Regular, sans-serif;
+  --body-l-font-size: 1.3333333333333333rem;
+  --body-l-line-height: 2.066666666666667rem;
+  --body-l-font-weight: 400;
+  --body-l-font-style: normal;
+  --quote-font-family: Inter-Medium, sans-serif;
+  --quote-font-size: 1.5333333333333334rem;
+  --quote-line-height: 2.2666666666666666rem;
+  --quote-font-weight: 500;
+  --quote-font-style: normal;
+
+  /* Effects */
+}
